@@ -1,0 +1,7 @@
+ le résultat pour chaque valeur de n :
+
+- n = 0 : Nul, Petit, Moyen, Grand
+- n = 1 : Petit, Moyen, Grand
+- n = 4 : Moyen, Grand
+- n = 10 : Grand
+- n = -5 : Grand
